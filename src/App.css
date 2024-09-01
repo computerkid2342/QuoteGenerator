@@ -39,7 +39,7 @@
     font-family: 'Spartan', sans-serif;
 } 
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 600x) {
     .card {
         width: 80%;
         height: 30%;
